@@ -1,0 +1,3 @@
+wallet1_private_key = 0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+wallet_address = 0x742d35Cc1234567890ABCDEF1234567890ABCDEF
+api_key = ABCD123456
